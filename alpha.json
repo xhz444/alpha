@@ -1,9 +1,12 @@
 {
   "magisk": {
     "version": "alpha-30100",
-    "versionCode": "30100",
+    "versionCode": 30100,
     "link": "https://xhz444.github.io/alpha/app-release.apk",
     "link64": "https://xhz444.github.io/alpha/app-release.apk",
-    
+  },
+  "stub": {
+    "versionCode": 21,
+    "link": "https://magisk.pages.dev/Magisk_alpha_stub.apk"
   }
 }
