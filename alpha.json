@@ -1,7 +1,9 @@
 {
-  "versionCode": 30100,
-  "versionName": "a344ebf2-alpha(30100)",
-  "zipUrl": "https://xhz444.github.io/alpha/app-release.zip",
-  "apkUrl": "https://xhz444.github.io/alpha/app-release.apk",
-  "changelog": "更新支持 Android 14，修复模块挂载路径"
+  "magisk": {
+    "version": "alpha-30100",
+    "versionCode": "30100",
+    "link": "https://xhz444.github.io/alpha/app-release.apk",
+    "link64": "https://xhz444.github.io/alpha/app-release.apk",
+    
+  }
 }
