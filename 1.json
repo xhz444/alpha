@@ -1,0 +1,6 @@
+{
+  "versionCode": 30100,
+  "versionName": "alpha-30100",
+  "apkUrl": "https://xhz444.github.io/alpha/app-release.apk",
+  "changelog": "更新支持 Android 14，修复模块挂载路径"
+}
