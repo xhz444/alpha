@@ -4,9 +4,5 @@
     "versionCode": "30100",  
     "link": "https://raw.githubusercontent.com/xhz444/alpha/main/app-release.apk",  
     "note": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/a.md"  
-  },  
-  "stub": {  
-    "versionCode": "38",  
-    "link": "https://chouge1huao.github.io/Magiskcustomchannel/Magisk/stub.apk"  
-  }  
+  }
 }
